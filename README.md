@@ -1,2 +1,2 @@
-# React-L8-Build-Your-Name-Tag-Text-Inputs
+# React-Name-Tag-Generator
 Created with CodeSandbox
